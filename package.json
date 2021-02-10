@@ -18,6 +18,7 @@
   "homepage": "https://github.com/92fueler/javascript-in-machine-learning#readme",
   "dependencies": {
     "@tensorflow/tfjs": "^3.0.0",
-    "@tensorflow/tfjs-node": "^3.0.0"
+    "@tensorflow/tfjs-node": "^3.0.0",
+    "@tensorflow/tfjs-vis": "^1.5.0"
   }
 }
